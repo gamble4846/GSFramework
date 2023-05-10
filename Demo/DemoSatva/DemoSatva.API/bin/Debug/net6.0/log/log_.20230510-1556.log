@@ -1,0 +1,16 @@
+2023-05-10 15:56:27,259 [1] INFO  Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\chint\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-05-10 15:56:27,360 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/swagger - -
+2023-05-10 15:56:27,500 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/swagger/index.html - -
+2023-05-10 15:56:27,535 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/swagger - - - 302 - - 177.7842ms
+2023-05-10 15:56:27,821 [6] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/swagger/index.html - - - 200 - text/html;+charset=utf-8 316.9080ms
+2023-05-10 15:56:27,835 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/_framework/aspnetcore-browser-refresh.js - -
+2023-05-10 15:56:27,842 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/_vs/browserLink - -
+2023-05-10 15:56:27,858 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 17.4188ms
+2023-05-10 15:56:27,902 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 59.4067ms
+2023-05-10 15:56:27,960 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - -
+2023-05-10 15:56:28,575 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - - - 200 - application/json;+charset=utf-8 614.9890ms
+2023-05-10 15:56:38,212 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/api/Query/TEST - -
+2023-05-10 15:56:38,292 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Test", controller = "Events"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Test() on controller DemoSatva.API.Controllers.EventsController (DemoSatva.API).
+2023-05-10 15:56:58,869 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'DemoSatva.Utility.APIResponse'.
+2023-05-10 15:56:58,894 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action DemoSatva.API.Controllers.EventsController.Test (DemoSatva.API) in 20587.8296ms
+2023-05-10 15:56:58,898 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/api/Query/TEST - - - 500 - application/json;+charset=utf-8 20687.4966ms

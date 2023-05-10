@@ -1,0 +1,11 @@
+2023-05-10 14:25:50,030 [1] INFO  Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\chint\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-05-10 14:25:50,217 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/swagger - -
+2023-05-10 14:25:51,029 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/swagger/index.html - -
+2023-05-10 14:25:51,114 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/swagger - - - 302 - - 897.3838ms
+2023-05-10 14:25:51,509 [7] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/swagger/index.html - - - 200 - text/html;+charset=utf-8 472.5267ms
+2023-05-10 14:25:51,524 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/_framework/aspnetcore-browser-refresh.js - -
+2023-05-10 14:25:51,533 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/_vs/browserLink - -
+2023-05-10 14:25:51,546 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 19.0328ms
+2023-05-10 14:25:51,595 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 60.2214ms
+2023-05-10 14:25:51,664 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - -
+2023-05-10 14:25:52,373 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - - - 200 - application/json;+charset=utf-8 710.0355ms

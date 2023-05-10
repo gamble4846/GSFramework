@@ -1,0 +1,2 @@
+2023-05-10 14:36:10,658 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/api/Query/TEST - -
+2023-05-10 14:36:10,742 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Test", controller = "Events"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Test() on controller DemoSatva.API.Controllers.EventsController (DemoSatva.API).

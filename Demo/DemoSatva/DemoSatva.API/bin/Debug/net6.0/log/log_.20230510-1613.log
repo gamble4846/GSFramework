@@ -1,0 +1,13 @@
+2023-05-10 16:13:20,082 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/swagger/index.html - -
+2023-05-10 16:13:20,113 [6] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/swagger/index.html - - - 200 - text/html;+charset=utf-8 29.7172ms
+2023-05-10 16:13:20,158 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/_vs/browserLink - -
+2023-05-10 16:13:20,164 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/_framework/aspnetcore-browser-refresh.js - -
+2023-05-10 16:13:20,198 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 32.8233ms
+2023-05-10 16:13:20,251 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 95.1781ms
+2023-05-10 16:13:20,371 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - -
+2023-05-10 16:13:20,413 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - - - 200 - application/json;+charset=utf-8 40.6468ms
+2023-05-10 16:13:23,694 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:44376/api/Query/TEST - -
+2023-05-10 16:13:23,708 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Test", controller = "Events"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Test() on controller DemoSatva.API.Controllers.EventsController (DemoSatva.API).
+2023-05-10 16:13:23,916 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'DemoSatva.Utility.APIResponse'.
+2023-05-10 16:13:23,921 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action DemoSatva.API.Controllers.EventsController.Test (DemoSatva.API) in 205.6856ms
+2023-05-10 16:13:23,926 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/api/Query/TEST - - - 500 - application/json;+charset=utf-8 235.2810ms

@@ -1,0 +1,12 @@
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\bin\Release\net6.0\DemoSatva.Model.deps.json
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\bin\Release\net6.0\DemoSatva.Model.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\bin\Release\net6.0\DemoSatva.Model.pdb
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\obj\Release\net6.0\DemoSatva.Model.csproj.AssemblyReference.cache
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\obj\Release\net6.0\DemoSatva.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\obj\Release\net6.0\DemoSatva.Model.AssemblyInfoInputs.cache
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\obj\Release\net6.0\DemoSatva.Model.AssemblyInfo.cs
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\obj\Release\net6.0\DemoSatva.Model.csproj.CoreCompileInputs.cache
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\obj\Release\net6.0\DemoSatva.Model.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\obj\Release\net6.0\refint\DemoSatva.Model.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\obj\Release\net6.0\DemoSatva.Model.pdb
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.Model\obj\Release\net6.0\ref\DemoSatva.Model.dll

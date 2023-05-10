@@ -1,0 +1,6 @@
+2023-04-05 10:06:28,905 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 POST https://localhost:44376/v1/api/Events application/json 186
+2023-04-05 10:06:28,914 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2023-04-05 10:06:28,917 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Post", controller = "Events"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Post(DemoSatva.Model.EventsModel) on controller DemoSatva.API.Controllers.EventsController (DemoSatva.API).
+2023-04-05 10:06:29,387 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'DemoSatva.Utility.APIResponse'.
+2023-04-05 10:06:29,396 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action DemoSatva.API.Controllers.EventsController.Post (DemoSatva.API) in 473.4624ms
+2023-04-05 10:06:29,464 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 POST https://localhost:44376/v1/api/Events application/json 186 - 500 - application/json;+charset=utf-8 555.9495ms

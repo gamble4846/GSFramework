@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "73xaF3lAK+AS0+49CVFoXXFqD8XudxbHfloMT4fL2aY=",
+  "Source": "DemoSatva.API",
+  "BasePath": "_content/DemoSatva.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoSatva.API\\wwwroot",
+      "Source": "DemoSatva.API",
+      "ContentRoot": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.API\\wwwroot\\",
+      "BasePath": "_content/DemoSatva.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

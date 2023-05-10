@@ -1,0 +1,57 @@
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.deps.json
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Model.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Utility.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Model.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Utility.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.AssemblyReference.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.AssemblyInfoInputs.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.AssemblyInfo.cs
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.CoreCompileInputs.cache
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.CopyComplete
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\refint\DemoSatva.DataAccess.dll
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.pdb
+C:\D\Automator\Git\Automator\nkv.RestAPIMSSQL\nkv.RestAPI.NetCore\nkv.RestAPI.NetCore\bin\Debug\netcoreapp3.1\Template\solution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\ref\DemoSatva.DataAccess.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.deps.json
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.pdb
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Model.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Utility.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Model.pdb
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Utility.pdb
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.AssemblyReference.cache
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.AssemblyInfoInputs.cache
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.AssemblyInfo.cs
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.CoreCompileInputs.cache
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.CopyComplete
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\refint\DemoSatva.DataAccess.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.pdb
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\ref\DemoSatva.DataAccess.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\GSFramework.dll
+D:\Softwares\DotnetMicroServiceMSSQL_V2.0\MicroServiceGenerator_DotNetCore6\DemoSatva\VSSolution\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\GSFramework.pdb
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.AssemblyReference.cache
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.AssemblyInfoInputs.cache
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.AssemblyInfo.cs
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.CoreCompileInputs.cache
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.deps.json
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.dll
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.pdb
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Model.dll
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Utility.dll
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Model.pdb
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Utility.pdb
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.CopyComplete
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.dll
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\refint\DemoSatva.DataAccess.dll
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.pdb
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\ref\DemoSatva.DataAccess.dll
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.runtimeconfig.json
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.genruntimeconfig.cache
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\EasyCRUD.ADO.dll
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\EasyCRUD.ADO.pdb

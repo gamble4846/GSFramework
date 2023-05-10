@@ -1,0 +1,3 @@
+2023-05-10 16:58:20,431 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'DemoSatva.Utility.APIResponse'.
+2023-05-10 16:58:20,504 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action DemoSatva.API.Controllers.EventsController.Test (DemoSatva.API) in 37435.0306ms
+2023-05-10 16:58:20,509 [.NET ThreadPool Worker] INFO  Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:44376/api/Query/TEST - - - 500 - application/json;+charset=utf-8 37567.6029ms

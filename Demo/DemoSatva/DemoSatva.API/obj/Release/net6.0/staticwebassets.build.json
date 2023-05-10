@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "MM5j1hE0S+taZagYAzdieMXgx36j6inoEcNCDvzmYc8=",
+  "Source": "DemoSatva.API",
+  "BasePath": "_content/DemoSatva.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoSatva.API\\wwwroot",
+      "Source": "DemoSatva.API",
+      "ContentRoot": "D:\\Softwares\\DotnetMicroServiceMSSQL_V2.0\\MicroServiceGenerator_DotNetCore6\\DemoSatva\\VSSolution\\DemoSatva\\DemoSatva.API\\wwwroot\\",
+      "BasePath": "_content/DemoSatva.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="6.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DemoSatva.DataAccess\DemoSatva.DataAccess.csproj" />
+    <ProjectReference Include="..\DemoSatva.Model\DemoSatva.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Impl\" />
+    <Folder Include="Interface\" />
+  </ItemGroup>
+
+</Project>
+
