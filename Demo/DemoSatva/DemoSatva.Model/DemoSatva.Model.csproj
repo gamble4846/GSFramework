@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GSFramework\EasyCRUD.ADO.csproj" />
+    <ProjectReference Include="..\GSFramework\EasyCrudDB.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,17 @@
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\EasyCrudDB.deps.json
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\EasyCrudDB.runtimeconfig.json
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\EasyCrudDB.dll
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\EasyCrudDB.pdb
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\DemoSatva.Utility.dll
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\DemoSatva.Utility.pdb
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCrudDB.csproj.AssemblyReference.cache
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCrudDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCrudDB.AssemblyInfoInputs.cache
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCrudDB.AssemblyInfo.cs
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCrudDB.csproj.CoreCompileInputs.cache
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCrudDB.csproj.CopyComplete
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCrudDB.dll
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\refint\EasyCrudDB.dll
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCrudDB.pdb
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCrudDB.genruntimeconfig.cache
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\ref\EasyCrudDB.dll

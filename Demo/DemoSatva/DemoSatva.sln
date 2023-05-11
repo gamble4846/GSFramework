@@ -12,7 +12,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSatva.Utility", "DemoSa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSatva.Manager", "DemoSatva.Manager\DemoSatva.Manager.csproj", "{B7F96FF8-ED0B-4146-BC89-C91B6FE07734}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyCRUD.ADO", "GSFramework\EasyCRUD.ADO.csproj", "{8DEE3CB1-2FAA-4965-9BAD-EB0DE1A52927}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyCrudDB", "GSFramework\EasyCrudDB.csproj", "{8DEE3CB1-2FAA-4965-9BAD-EB0DE1A52927}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

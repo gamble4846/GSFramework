@@ -14,9 +14,9 @@ using ExpressionToSql;
 using System.Net;
 using System.Collections;
 using System.Data.Entity.Core.Objects;
-using static EasyCRUD.ADO.GSEnums;
+using static EasyCrudDB.GSEnums;
 
-namespace EasyCRUD.ADO
+namespace EasyCrudDB
 {
     public static class UtilityCustom
     {

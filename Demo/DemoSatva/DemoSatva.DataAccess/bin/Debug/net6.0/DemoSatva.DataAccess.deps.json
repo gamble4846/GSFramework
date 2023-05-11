@@ -464,7 +464,7 @@
       },
       "DemoSatva.Model/1.0.0": {
         "dependencies": {
-          "EasyCRUD.ADO": "1.0.0",
+          "EasyCrudDB": "1.0.0",
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
@@ -484,7 +484,7 @@
           "DemoSatva.Utility.dll": {}
         }
       },
-      "EasyCRUD.ADO/1.0.0": {
+      "EasyCrudDB/1.0.0": {
         "dependencies": {
           "DemoSatva.Utility": "1.0.0",
           "EntityFramework": "6.4.4",
@@ -492,7 +492,7 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "EasyCRUD.ADO.dll": {}
+          "EasyCrudDB.dll": {}
         }
       }
     }
@@ -821,7 +821,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "EasyCRUD.ADO/1.0.0": {
+    "EasyCrudDB/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

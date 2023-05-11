@@ -15,3 +15,20 @@ D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.pdb
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.genruntimeconfig.cache
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\ref\EasyCRUD.ADO.dll
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\EasyCRUD.ADO.deps.json
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\EasyCRUD.ADO.runtimeconfig.json
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\EasyCRUD.ADO.dll
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\EasyCRUD.ADO.pdb
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\DemoSatva.Utility.dll
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\bin\Debug\net6.0\DemoSatva.Utility.pdb
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.csproj.AssemblyReference.cache
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.AssemblyInfoInputs.cache
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.AssemblyInfo.cs
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.csproj.CoreCompileInputs.cache
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.csproj.CopyComplete
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.dll
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\refint\EasyCRUD.ADO.dll
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.pdb
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\EasyCRUD.ADO.genruntimeconfig.cache
+D:\Github\GSFramework\Demo\DemoSatva\GSFramework\obj\Debug\net6.0\ref\EasyCRUD.ADO.dll

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.ComponentModel.DataAnnotations;
-using EasyCRUD.ADO;
+using EasyCrudDB;
 using System.ComponentModel.DataAnnotations.Schema;
 using DemoSatva.Utility;
 using System.Data.SqlClient;

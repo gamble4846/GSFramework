@@ -47,3 +47,26 @@ D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debu
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.genruntimeconfig.cache
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCRUD.ADO.dll
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCRUD.ADO.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Manager.deps.json
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Manager.runtimeconfig.json
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Manager.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Manager.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.DataAccess.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Model.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Utility.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.DataAccess.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Model.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Utility.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.csproj.AssemblyReference.cache
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.AssemblyInfoInputs.cache
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.AssemblyInfo.cs
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.csproj.CoreCompileInputs.cache
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.csproj.CopyComplete
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\refint\DemoSatva.Manager.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.genruntimeconfig.cache
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\ref\DemoSatva.Manager.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCrudDB.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCrudDB.pdb

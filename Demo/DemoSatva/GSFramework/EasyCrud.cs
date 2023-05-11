@@ -9,16 +9,16 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Transactions;
 using System.Diagnostics;
-using static EasyCRUD.ADO.GSEnums;
+using static EasyCrudDB.GSEnums;
 
-namespace EasyCRUD.ADO
+namespace EasyCrudDB
 {
-    public class EasyCRUDAdo
+    public class EasyCrud
     {
         private string ConnectionString = "";
         private SqlConnection ConnectionToSave = null;
         private SqlTransaction TransactionToSave = null;
-        public EasyCRUDAdo(string connectionString)
+        public EasyCrud(string connectionString)
         {
             ConnectionString = connectionString;
         }

@@ -753,7 +753,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "EasyCRUD.ADO": "1.0.0",
+          "EasyCrudDB": "1.0.0",
           "Newtonsoft.Json": "13.0.3"
         },
         "compile": {
@@ -781,7 +781,7 @@
           "bin/placeholder/DemoSatva.Utility.dll": {}
         }
       },
-      "EasyCRUD.ADO/1.0.0": {
+      "EasyCrudDB/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -791,10 +791,10 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "compile": {
-          "bin/placeholder/EasyCRUD.ADO.dll": {}
+          "bin/placeholder/EasyCrudDB.dll": {}
         },
         "runtime": {
-          "bin/placeholder/EasyCRUD.ADO.dll": {}
+          "bin/placeholder/EasyCrudDB.dll": {}
         }
       }
     }
@@ -2129,10 +2129,10 @@
       "path": "../DemoSatva.Utility/DemoSatva.Utility.csproj",
       "msbuildProject": "../DemoSatva.Utility/DemoSatva.Utility.csproj"
     },
-    "EasyCRUD.ADO/1.0.0": {
+    "EasyCrudDB/1.0.0": {
       "type": "project",
-      "path": "../GSFramework/EasyCRUD.ADO.csproj",
-      "msbuildProject": "../GSFramework/EasyCRUD.ADO.csproj"
+      "path": "../GSFramework/EasyCrudDB.csproj",
+      "msbuildProject": "../GSFramework/EasyCrudDB.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2144,19 +2144,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chint\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Manager\\DemoSatva.Manager.csproj",
+      "projectUniqueName": "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Manager\\DemoSatva.Manager.csproj",
       "projectName": "DemoSatva.Manager",
-      "projectPath": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Manager\\DemoSatva.Manager.csproj",
-      "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Manager\\obj\\",
+      "projectPath": "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Manager\\DemoSatva.Manager.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2170,11 +2170,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.DataAccess\\DemoSatva.DataAccess.csproj": {
-              "projectPath": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.DataAccess\\DemoSatva.DataAccess.csproj"
+            "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.DataAccess\\DemoSatva.DataAccess.csproj": {
+              "projectPath": "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.DataAccess\\DemoSatva.DataAccess.csproj"
             },
-            "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Model\\DemoSatva.Model.csproj": {
-              "projectPath": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Model\\DemoSatva.Model.csproj"
+            "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Model\\DemoSatva.Model.csproj": {
+              "projectPath": "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Model\\DemoSatva.Model.csproj"
             }
           }
         }
@@ -2214,7 +2214,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

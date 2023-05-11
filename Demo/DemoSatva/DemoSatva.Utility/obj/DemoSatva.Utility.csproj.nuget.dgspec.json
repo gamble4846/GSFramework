@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\DemoSatva.Utility.csproj": {}
+    "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\DemoSatva.Utility.csproj": {}
   },
   "projects": {
-    "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\DemoSatva.Utility.csproj": {
+    "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\DemoSatva.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\DemoSatva.Utility.csproj",
+        "projectUniqueName": "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\DemoSatva.Utility.csproj",
         "projectName": "DemoSatva.Utility",
-        "projectPath": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\DemoSatva.Utility.csproj",
-        "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\obj\\",
+        "projectPath": "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\DemoSatva.Utility.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\GSFramework\\Demo\\DemoSatva\\DemoSatva.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

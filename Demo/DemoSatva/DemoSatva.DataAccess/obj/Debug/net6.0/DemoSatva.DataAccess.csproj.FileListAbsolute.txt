@@ -55,3 +55,24 @@ D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\D
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.genruntimeconfig.cache
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\EasyCRUD.ADO.dll
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\EasyCRUD.ADO.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.deps.json
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.runtimeconfig.json
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.DataAccess.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Model.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Utility.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Model.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\DemoSatva.Utility.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.AssemblyReference.cache
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.AssemblyInfoInputs.cache
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.AssemblyInfo.cs
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.CoreCompileInputs.cache
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.csproj.CopyComplete
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\refint\DemoSatva.DataAccess.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.pdb
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\DemoSatva.DataAccess.genruntimeconfig.cache
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\obj\Debug\net6.0\ref\DemoSatva.DataAccess.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\EasyCrudDB.dll
+D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.DataAccess\bin\Debug\net6.0\EasyCrudDB.pdb

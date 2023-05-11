@@ -15,7 +15,7 @@ using System.Data.SqlClient;
 using System.Data;
 using System.Linq;
 using System.ComponentModel;
-using EasyCRUD.ADO;
+using EasyCrudDB;
 
 namespace DemoSatva.API.Controllers
 {
@@ -165,7 +165,7 @@ namespace DemoSatva.API.Controllers
         {
             try
             {
-                var GSFramework = new EasyCRUDAdo("Server=db.satva.solutions,59763;Database=DemoSatva;User Id=sa;Password=Fishy1213#;");
+                var GSFramework = new EasyCrud("Server=db.satva.solutions,59763;Database=DemoSatva;User Id=sa;Password=Fishy1213#;");
 
                 var em = new EventsModel()
                 {
