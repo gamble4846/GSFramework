@@ -1,20 +1,12 @@
 ﻿using FastMember;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Data.SqlClient;
 using System.Data;
-using System.Linq;
 using System.Reflection;
 using System.Text;
-using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq.Expressions;
-using ExpressionToSql;
-using System.Net;
-using System.Collections;
-using System.Data.Entity.Core.Objects;
 using static EasyCrudDB.GSEnums;
+using Newtonsoft.Json;
 
 namespace EasyCrudDB
 {
@@ -324,6 +316,13 @@ namespace EasyCrudDB
                 default:
                     return "";
             }
+        }
+
+        public static T ConvertDynamicToType<T>(dynamic data) where T : new()
+        {
+            string jsonString = JsonConvert.SerializeObject(data);
+            T result = JsonConvert.DeserializeObject<T>(jsonString);
+            return result;
         }
     }
 }

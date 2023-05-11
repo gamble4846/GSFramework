@@ -14,5 +14,11 @@ namespace EasyCrudDB
             NoLock,
             ReadPast
         }
+
+        public enum ExecuteType
+        {
+            ExecuteReader,
+            ExecuteNonQuery
+        }
     }
 }

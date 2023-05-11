@@ -10,6 +10,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Transactions;
 using System.Diagnostics;
 using static EasyCrudDB.GSEnums;
+using System.Data.Common;
 
 namespace EasyCrudDB
 {
@@ -42,7 +43,26 @@ namespace EasyCrudDB
             }
             catch
             {
-                if(ConnectionToSave != null)
+                if (ConnectionToSave != null)
+                    if (ConnectionToSave.State == ConnectionState.Open)
+                    {
+                        ConnectionToSave.Close();
+                    }
+                ConnectionToSave = null;
+                TransactionToSave = null;
+            }
+        }
+
+        public void RollBack()
+        {
+            try
+            {
+                SetUpConnectionAndTransactionToSave();
+                if (ConnectionToSave.State == ConnectionState.Closed)
+                {
+                    ConnectionToSave.Open();
+                }
+                TransactionToSave.Rollback();
                 if (ConnectionToSave.State == ConnectionState.Open)
                 {
                     ConnectionToSave.Close();
@@ -50,11 +70,21 @@ namespace EasyCrudDB
                 ConnectionToSave = null;
                 TransactionToSave = null;
             }
+            catch
+            {
+                if (ConnectionToSave != null)
+                    if (ConnectionToSave.State == ConnectionState.Open)
+                    {
+                        ConnectionToSave.Close();
+                    }
+                ConnectionToSave = null;
+                TransactionToSave = null;
+            }
         }
 
         private void SetUpConnectionAndTransactionToSave()
         {
-            if(ConnectionToSave == null || TransactionToSave == null)
+            if (ConnectionToSave == null || TransactionToSave == null)
             {
                 ConnectionToSave = new SqlConnection(ConnectionString);
                 if (ConnectionToSave.State == ConnectionState.Closed)
@@ -321,6 +351,136 @@ namespace EasyCrudDB
                     cmd.Transaction = TransactionToSave;
                 }
                 return UtilityCustom.DeleteRowFromTable(TableName, cmd, WhereCondition);
+            }
+            catch (Exception)
+            {
+                if (connection.State == ConnectionState.Open)
+                {
+                    connection.Close();
+                }
+                throw;
+            }
+            finally
+            {
+                if (AutoCommit)
+                {
+                    if (connection.State == ConnectionState.Open)
+                    {
+                        connection.Close();
+                    }
+                }
+            }
+        }
+
+        public int Count<T>(string WhereCondition = null, WithInQuery withInQuery = WithInQuery.None) where T : class, new()
+        {
+            var TableName = UtilityCustom.GetTableName<T>();
+            var withString = UtilityCustom.GetWithString(withInQuery);
+            using (SqlConnection connection = new SqlConnection(ConnectionString))
+            {
+
+                string CommandText = @"SELECT COUNT(*) AS TotalRecords FROM " + TableName + " t " + withString + " " + WhereCondition;
+                SqlCommand cmd = new SqlCommand(CommandText, connection);
+
+                try
+                {
+                    if (connection.State == ConnectionState.Closed)
+                    {
+                        connection.Open();
+                    }
+                    using (var reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            var t = reader.GetInt32("TotalRecords");
+                            if (connection.State == ConnectionState.Open)
+                            {
+                                connection.Close();
+                            }
+                            return t;
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    if (connection.State == ConnectionState.Open)
+                    {
+                        connection.Close();
+                    }
+                    throw;
+                }
+                finally
+                {
+                    if (connection.State == ConnectionState.Open)
+                    {
+                        connection.Close();
+                    }
+                }
+
+                return 0;
+            }
+        }
+
+        public dynamic Query(string Query, bool AutoCommit = true, ExecuteType executeType = ExecuteType.ExecuteReader)
+        {
+            SqlConnection connection;
+
+            if (AutoCommit)
+            {
+                connection = new SqlConnection(ConnectionString);
+            }
+            else
+            {
+                SetUpConnectionAndTransactionToSave();
+                connection = ConnectionToSave;
+            }
+
+            var ret = new List<dynamic>();
+            string CommandText = Query;
+
+            SqlCommand cmd = new SqlCommand(CommandText, connection);
+
+            if (!AutoCommit)
+            {
+                cmd.Transaction = TransactionToSave;
+            }
+
+            try
+            {
+                if (connection.State == ConnectionState.Closed)
+                {
+                    connection.Open();
+                }
+
+                switch (executeType)
+                {
+                    case ExecuteType.ExecuteReader:
+                        using (var reader = cmd.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                var t = UtilityCustom.GetFullQueryRow(reader);
+                                ret.Add(t);
+                            }
+                        }
+                        return ret;
+                    case ExecuteType.ExecuteNonQuery:
+                        var recs = cmd.ExecuteNonQuery();
+                        if (recs > 0)
+                        {
+                            if (AutoCommit)
+                            {
+                                if (connection.State == ConnectionState.Open)
+                                {
+                                    connection.Close();
+                                }
+                            }
+                            return recs;
+                        }
+                        return null;
+                    default:
+                        return null;
+                }
             }
             catch (Exception)
             {

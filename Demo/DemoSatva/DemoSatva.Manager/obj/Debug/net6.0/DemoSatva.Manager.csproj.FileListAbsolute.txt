@@ -43,10 +43,6 @@ D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debu
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\refint\DemoSatva.Manager.dll
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.pdb
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\ref\DemoSatva.Manager.dll
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Manager.runtimeconfig.json
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatva.Manager.genruntimeconfig.cache
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCRUD.ADO.dll
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCRUD.ADO.pdb
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Manager.deps.json
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Manager.runtimeconfig.json
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\DemoSatva.Manager.dll
@@ -70,3 +66,5 @@ D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\DemoSatv
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\obj\Debug\net6.0\ref\DemoSatva.Manager.dll
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCrudDB.dll
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCrudDB.pdb
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCrudDB.dll
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.Manager\bin\Debug\net6.0\EasyCrudDB.pdb

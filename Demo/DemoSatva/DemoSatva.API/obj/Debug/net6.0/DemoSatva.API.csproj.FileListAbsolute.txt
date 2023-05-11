@@ -564,12 +564,6 @@ D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\obj\Debug\ne
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\obj\Debug\net6.0\DemoSatva.API.genruntimeconfig.cache
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\obj\Debug\net6.0\ref\DemoSatva.API.dll
 D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\obj\Debug\net6.0\DemoSatva.API.MvcApplicationPartsAssemblyInfo.cs
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\ExpressionToSql.dll
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\EntityFramework.dll
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\System.CodeDom.dll
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\EasyCRUD.ADO.dll
-D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\EasyCRUD.ADO.pdb
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\appsettings.Development.json
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\appsettings.json
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\log4net.config
@@ -855,3 +849,5 @@ D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.API\obj\Debug\net6.0\DemoSatva.AP
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.API\obj\Debug\net6.0\ref\DemoSatva.API.dll
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\EasyCrudDB.dll
 D:\Github\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\EasyCrudDB.pdb
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\EasyCrudDB.dll
+D:\Github\Rohan's Projects\GSFramework\Demo\DemoSatva\DemoSatva.API\bin\Debug\net6.0\EasyCrudDB.pdb
