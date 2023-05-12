@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>EasyCrudLibrary</id>
+    <version>1.0.0</version>
+    <authors>Rohan Patel</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/gamble4846/EasyCrudLibrary</projectUrl>
+    <description>Package description</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Tag1 Tag2</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework6.0">
+        <dependency id="FastMember" version="1.5.0" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" />
+        <dependency id="System.Data.SqlClient" version="4.8.5" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,10 +1,10 @@
-﻿using DemoSatva.Utility;
+﻿using EasyCrudLibrary.Model;
 using System.Data.SqlClient;
 using System.Security.Cryptography;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace EasyCrudDB
+namespace EasyCrudLibrary
 {
     public static class DataAccessHelper
     {
@@ -13,12 +13,14 @@ namespace EasyCrudDB
             int columnOrdinal = reader.GetOrdinal(name);
             return columnOrdinal;
         }
+
         public static T GetValue<T>(this SqlDataReader sqlDataReader, string columnName)
         {
             var value = sqlDataReader[columnName];
 
             return value == System.DBNull.Value ? default(T) : (T)value;
         }
+
         public static string GetMD5HashData(string data)
         {
             //create new instance of md5
