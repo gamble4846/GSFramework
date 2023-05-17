@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3vWrH1kFw9d2aUg2let4x+W2MISAwojbFZfwlvqWXaDvmH4CfmdQxfvBl4aZVEtPHJGCFTM5SVh0YBLw3EEDhg==",
+  "dgSpecHash": "kkXCQNEoXHUwDf4LhiesdAxLKG5DvhVVSR/hMP0kA6zHHQlf6BnYCAQVMP7+vETFVvr7AE4skUMQi76JxTS8CQ==",
   "success": true,
   "projectFilePath": "D:\\Github\\Rohan's Projects\\GSFramework\\Demo\\New folder\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\chint\\.nuget\\packages\\easycrudlibrary\\1.0.1\\easycrudlibrary.1.0.1.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\easycrudlibrary\\1.0.2\\easycrudlibrary.1.0.2.nupkg.sha512",
     "C:\\Users\\chint\\.nuget\\packages\\fastmember\\1.5.0\\fastmember.1.5.0.nupkg.sha512",
     "C:\\Users\\chint\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\chint\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

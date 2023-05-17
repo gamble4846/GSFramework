@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "EasyCrudLibrary/1.0.1": {
+      "EasyCrudLibrary/1.0.2": {
         "type": "package",
         "dependencies": {
           "FastMember": "1.5.0",
@@ -186,14 +186,15 @@
     }
   },
   "libraries": {
-    "EasyCrudLibrary/1.0.1": {
-      "sha512": "s4E7kCVZY6l4cMq/1jSFKOxu3L0B2m7ATJdgap4YCFTz3xOQu/5dOW+pKcQDLa1hKZSuyqhKY3fF1AdIitcWVg==",
+    "EasyCrudLibrary/1.0.2": {
+      "sha512": "MYeQvpLsQXHzFP8aj6tSY0Af/I2KKn5DTOQqAZBBmKJef5Gss9QV7vqhoBRGvLOfoSO4HuB3sFDPgd5eKje2Lw==",
       "type": "package",
-      "path": "easycrudlibrary/1.0.1",
+      "path": "easycrudlibrary/1.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "easycrudlibrary.1.0.1.nupkg.sha512",
+        "Icon.png",
+        "easycrudlibrary.1.0.2.nupkg.sha512",
         "easycrudlibrary.nuspec",
         "lib/net6.0/EasyCrudLibrary.dll"
       ]
@@ -558,7 +559,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "EasyCrudLibrary >= 1.0.1"
+      "EasyCrudLibrary >= 1.0.2"
     ]
   },
   "packageFolders": {
@@ -602,7 +603,7 @@
         "dependencies": {
           "EasyCrudLibrary": {
             "target": "Package",
-            "version": "[1.0.1, )"
+            "version": "[1.0.2, )"
           }
         },
         "imports": [
