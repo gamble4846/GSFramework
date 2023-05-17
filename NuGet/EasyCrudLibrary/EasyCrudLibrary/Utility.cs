@@ -179,7 +179,7 @@ namespace EasyCrudLibrary
             cmd.CommandText = QueryString;
             foreach (var column in ColumnNames)
             {
-                cmd.Parameters.AddWithValue("@" + column, data.GetType().GetProperty(column).GetValue(data));
+                cmd.Parameters.AddWithValue("@" + column, ((object)data.GetType().GetProperty(column).GetValue(data)) ?? DBNull.Value);
             }
 
             foreach (SqlParameter parameter in cmd.Parameters)
@@ -233,7 +233,7 @@ namespace EasyCrudLibrary
                 cmd.CommandText = QueryString;
                 foreach (var column in ColumnNames)
                 {
-                    cmd.Parameters.AddWithValue("@" + column, data.GetType().GetProperty(column).GetValue(data));
+                    cmd.Parameters.AddWithValue("@" + column, ((object)data.GetType().GetProperty(column).GetValue(data)) ?? DBNull.Value);
                 }
 
                 foreach (SqlParameter parameter in cmd.Parameters)

@@ -15,6 +15,17 @@ namespace EasyCrudLibrary
             ConnectionString = connectionString;
         }
 
+        ~EasyCrud()
+        {
+            if (ConnectionToSave != null)
+                if (ConnectionToSave.State == ConnectionState.Open)
+                {
+                    ConnectionToSave.Close();
+                }
+            ConnectionToSave = null;
+            TransactionToSave = null;
+        }
+
         public void SaveChanges()
         {
             try

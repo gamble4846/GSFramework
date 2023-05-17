@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>EasyCrudLibrary</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Rohan Patel</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>

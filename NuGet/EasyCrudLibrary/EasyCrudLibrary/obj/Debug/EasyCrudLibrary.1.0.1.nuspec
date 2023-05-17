@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EasyCrudLibrary</id>
+    <version>1.0.1</version>
+    <title>EasyCrudLibrary</title>
+    <authors>EasyCrudLibrary</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="FastMember" version="1.5.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\bin\Debug\net6.0\EasyCrudLibrary.dll" target="lib\net6.0\EasyCrudLibrary.dll" />
+  </files>
+</package>

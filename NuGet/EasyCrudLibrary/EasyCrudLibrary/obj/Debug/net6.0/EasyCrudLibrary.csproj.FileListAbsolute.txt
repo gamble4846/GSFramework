@@ -1,0 +1,12 @@
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\bin\Debug\net6.0\EasyCrudLibrary.deps.json
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\bin\Debug\net6.0\EasyCrudLibrary.dll
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\bin\Debug\net6.0\EasyCrudLibrary.pdb
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\obj\Debug\net6.0\EasyCrudLibrary.csproj.AssemblyReference.cache
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\obj\Debug\net6.0\EasyCrudLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\obj\Debug\net6.0\EasyCrudLibrary.AssemblyInfoInputs.cache
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\obj\Debug\net6.0\EasyCrudLibrary.AssemblyInfo.cs
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\obj\Debug\net6.0\EasyCrudLibrary.csproj.CoreCompileInputs.cache
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\obj\Debug\net6.0\EasyCrudLibrary.dll
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\obj\Debug\net6.0\refint\EasyCrudLibrary.dll
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\obj\Debug\net6.0\EasyCrudLibrary.pdb
+D:\Github\Rohan's Projects\GSFramework\NuGet\EasyCrudLibrary\EasyCrudLibrary\obj\Debug\net6.0\ref\EasyCrudLibrary.dll

@@ -4,7 +4,22 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>EasyCrudLibrary</Title>
+    <Version>1.0.2</Version>
+    <Description>EasyCrudLibrary is a comprehensive and user-friendly NuGet library designed to streamline CRUD (Create, Read, Update, Delete) operations on SQL databases. This library offers a convenient and efficient way for developers to interact with their SQL databases, minimizing the complexity and repetitive tasks typically associated with database management.</Description>
+    <PackageProjectUrl>https://github.com/gamble4846/EasyCrudLibrary.git</PackageProjectUrl>
+    <PackageIcon>Icon.png</PackageIcon>
+    <RepositoryUrl>https://github.com/gamble4846/EasyCrudLibrary.git</RepositoryUrl>
+    <PackageTags>CRUD, SQL</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="FastMember" Version="1.5.0" />
