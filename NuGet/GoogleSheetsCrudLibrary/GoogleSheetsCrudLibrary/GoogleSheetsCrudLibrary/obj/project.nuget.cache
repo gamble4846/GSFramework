@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "qd7L2GXRxGJfQK2yQ8wAyjb0bEOb0l3McLG6jl/ywLSkM6S7KSeSCXGDMIh+3bd7xX3AskX/qpD4dO+iS7TjiQ==",
+  "dgSpecHash": "n0x/auiFf8TVpjNJtKZxd2YerDdli2Tp2fNm9hJJkYAfvLU/GXfpTWOvwgEJr1qkaF0kxHZ42bxhkRCQVZ+DYg==",
   "success": true,
   "projectFilePath": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\chint\\.nuget\\packages\\fastmember\\1.5.0\\fastmember.1.5.0.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\google.apis\\1.60.0\\google.apis.1.60.0.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\google.apis.auth\\1.60.0\\google.apis.auth.1.60.0.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\google.apis.core\\1.60.0\\google.apis.core.1.60.0.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\google.apis.sheets.v4\\1.60.0.3085\\google.apis.sheets.v4.1.60.0.3085.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

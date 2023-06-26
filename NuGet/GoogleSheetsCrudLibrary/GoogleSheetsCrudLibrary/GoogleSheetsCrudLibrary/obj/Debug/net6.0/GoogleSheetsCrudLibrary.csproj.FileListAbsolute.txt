@@ -1,0 +1,12 @@
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\bin\Debug\net6.0\GoogleSheetsCrudLibrary.deps.json
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\bin\Debug\net6.0\GoogleSheetsCrudLibrary.dll
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\bin\Debug\net6.0\GoogleSheetsCrudLibrary.pdb
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\obj\Debug\net6.0\GoogleSheetsCrudLibrary.csproj.AssemblyReference.cache
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\obj\Debug\net6.0\GoogleSheetsCrudLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\obj\Debug\net6.0\GoogleSheetsCrudLibrary.AssemblyInfoInputs.cache
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\obj\Debug\net6.0\GoogleSheetsCrudLibrary.AssemblyInfo.cs
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\obj\Debug\net6.0\GoogleSheetsCrudLibrary.csproj.CoreCompileInputs.cache
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\obj\Debug\net6.0\GoogleSheetsCrudLibrary.dll
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\obj\Debug\net6.0\refint\GoogleSheetsCrudLibrary.dll
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\obj\Debug\net6.0\GoogleSheetsCrudLibrary.pdb
+D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\obj\Debug\net6.0\ref\GoogleSheetsCrudLibrary.dll
