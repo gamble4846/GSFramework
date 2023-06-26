@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary.csproj": {}
+    "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\ToRunProject\\ToRunProject.csproj": {}
   },
   "projects": {
-    "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary.csproj": {
-      "version": "1.0.2",
+    "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\ToRunProject\\ToRunProject.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary.csproj",
-        "projectName": "EasyCrudLibrary",
-        "projectPath": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary.csproj",
+        "projectUniqueName": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\ToRunProject\\ToRunProject.csproj",
+        "projectName": "ToRunProject",
+        "projectPath": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\ToRunProject\\ToRunProject.csproj",
         "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-        "outputPath": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary\\obj\\",
+        "outputPath": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\ToRunProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,20 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "FastMember": {
-              "target": "Package",
-              "version": "[1.5.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

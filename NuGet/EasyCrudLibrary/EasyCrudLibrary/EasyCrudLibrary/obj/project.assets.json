@@ -543,11 +543,11 @@
   "project": {
     "version": "1.0.2",
     "restore": {
-      "projectUniqueName": "D:\\Github\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary.csproj",
+      "projectUniqueName": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary.csproj",
       "projectName": "EasyCrudLibrary",
-      "projectPath": "D:\\Github\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary.csproj",
+      "projectPath": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary.csproj",
       "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\obj\\",
+      "outputPath": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\EasyCrudLibrary\\EasyCrudLibrary\\EasyCrudLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
