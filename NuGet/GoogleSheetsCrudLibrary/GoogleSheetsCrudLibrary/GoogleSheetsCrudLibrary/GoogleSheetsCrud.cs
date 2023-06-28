@@ -34,7 +34,7 @@ namespace GoogleSheetsCrudLibrary
             });
         }
 
-        public List<T> GetList<T>(int page = -1, int itemsPerPage = -1, string WhereCondition = null) where T : class, new()
+        public List<T> GetList<T>(int page = -1, int itemsPerPage = -1) where T : class, new()
         {
             var SheetName = Utility.GetTableName<T>();
             var SheetsDataRequest = _SheetsService.Spreadsheets.Get(SpreadsheetId);
@@ -57,7 +57,7 @@ namespace GoogleSheetsCrudLibrary
             var BodyData = JsonConvert.DeserializeObject<List<List<object>>>(JsonConvert.SerializeObject(BodyResponse.Values));
 
 
-            var FinalSheetData = Utility.ConvertToSheetsDataObject(TitleResponse.Values[0].ToList(), BodyData);
+            var FinalSheetData = Utility.ConvertToSheetsDataObject<T>(TitleResponse.Values[0].ToList(), BodyData);
 
             //var request = _SheetsService.Spreadsheets.Values.Get(SpreadsheetId, );
             return new List<T>();

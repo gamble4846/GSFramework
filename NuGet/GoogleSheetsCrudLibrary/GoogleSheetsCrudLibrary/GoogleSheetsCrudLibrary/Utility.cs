@@ -1,6 +1,7 @@
 ﻿using FastMember;
 using GoogleSheetsCrudLibrary.Models;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
@@ -46,23 +47,46 @@ namespace GoogleSheetsCrudLibrary
             return _RowStartEndNumberModel;
         }
 
-        public static T ConvertToSheetsDataObject<T>(List<object> TitleData, List<List<object>> BodyData)
+        public static List<T> ConvertToSheetsDataObject<T>(List<object> TitleData, List<List<object>> BodyData) where T : class, new()
         {
-            var SheetsData = new List<dynamic>();
-
-            Type type = typeof(List<dynamic>);
-            var accessor = TypeAccessor.Create(type);
-
+            var FullSheetsData = new List<List<SheetEmptyModel>>();
             for (var BodyIndex = 0; BodyIndex < BodyData.Count; BodyIndex++)
             {
-                dynamic SheetData = new System.Dynamic.ExpandoObject();
+                var RowSheetsData = new List<SheetEmptyModel>();
                 for (var TitleIndex = 0; TitleIndex < TitleData.Count; TitleIndex++)
                 {
-                    var Prop = TitleData[TitleIndex].ToString();
-                    accessor[SheetData, Prop] = BodyData[BodyIndex][TitleIndex].ToString();
+                    var FullSheetsData_ToSave = new SheetEmptyModel()
+                    {
+                        Title = TitleData[TitleIndex].ToString(),
+                        Data = BodyData[BodyIndex][TitleIndex].ToString()
+                    };
+                    RowSheetsData.Add(FullSheetsData_ToSave);
                 }
-                SheetsData.Add(SheetData);
+                FullSheetsData.Add(RowSheetsData);
             }
+
+            Type type = typeof(T);
+            var accessor = TypeAccessor.Create(type);
+            var members = accessor.GetMembers();
+            var SheetsData = new List<T>();
+            for (var FullIndex = 0; FullIndex < FullSheetsData.Count; FullIndex++)
+            {
+                var RowSheetData = FullSheetsData[FullIndex];
+                var t = new T();
+                for (var RowIndex = 0; RowIndex < RowSheetData.Count; RowIndex++)
+                {
+                    var RowData = RowSheetData[RowIndex];
+                    try
+                    {
+                        accessor[t, RowData.Title] = RowData.Data;
+                    }
+                    catch (Exception)
+                    {
+                    }
+                }
+                SheetsData.Add(t);
+            }
+
             return SheetsData;
         }
     }

@@ -10,11 +10,15 @@
         "projectUniqueName": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary.csproj",
         "projectName": "GoogleSheetsCrudLibrary",
         "projectPath": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary.csproj",
-        "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\rohan\\.nuget\\packages\\",
         "outputPath": "D:\\Git Projects\\Rohan's Projects\\GSFramework\\NuGet\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\GoogleSheetsCrudLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
