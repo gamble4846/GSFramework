@@ -4,6 +4,12 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <Authors>Rohan Patel</Authors>
+    <Company>Gamble4846</Company>
+    <PackageTags>GoogleSheetsCrudLibrary</PackageTags>
+    <Description>A Library to Make CRUD call in Google sheets</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

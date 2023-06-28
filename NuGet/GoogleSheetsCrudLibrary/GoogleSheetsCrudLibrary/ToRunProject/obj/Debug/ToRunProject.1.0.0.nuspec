@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ToRunProject</id>
+    <version>1.0.0</version>
+    <authors>ToRunProject</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="GoogleSheetsCrudLibrary" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\ToRunProject\bin\Debug\net6.0\ToRunProject.runtimeconfig.json" target="lib\net6.0\ToRunProject.runtimeconfig.json" />
+    <file src="D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\ToRunProject\bin\Debug\net6.0\ToRunProject.dll" target="lib\net6.0\ToRunProject.dll" />
+  </files>
+</package>
