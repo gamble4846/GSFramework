@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GoogleSheetsCrudLibrary</id>
+    <version>1.0.2</version>
+    <authors>Rohan Patel</authors>
+    <icon>Icon.png</icon>
+    <projectUrl>https://github.com/gamble4846/EasyCrudLibrary.git</projectUrl>
+    <description>A Library to Make CRUD call in Google sheets</description>
+    <tags>CRUD, SQL, Google Sheet</tags>
+    <repository url="https://github.com/gamble4846/EasyCrudLibrary.git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="FastMember" version="1.5.0" exclude="Build,Analyzers" />
+        <dependency id="Google.Apis" version="1.60.0" exclude="Build,Analyzers" />
+        <dependency id="Google.Apis.Sheets.v4" version="1.60.0.3085" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Git Projects\Rohan's Projects\GSFramework\NuGet\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\GoogleSheetsCrudLibrary\bin\Debug\net6.0\GoogleSheetsCrudLibrary.dll" target="lib\net6.0\GoogleSheetsCrudLibrary.dll" />
+    <file src="D:\Git Projects\Rohan's Projects\GSFramework\NuGet\Icon.png" target="\Icon.png" />
+  </files>
+</package>

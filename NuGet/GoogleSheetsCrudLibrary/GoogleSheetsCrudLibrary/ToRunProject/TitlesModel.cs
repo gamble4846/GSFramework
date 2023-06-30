@@ -7,17 +7,24 @@ using System.Threading.Tasks;
 
 namespace ToRunProject
 {
-    [Table("Titles")]
-    public class TitlesModel
+    [Table("tbGroups")]
+    public class tbGroupsModel
     {
-        public string? Series_Id { get; set; }
-        public string? Series_MainName { get; set; }
-        public string? Series_AltNames { get; set; }
-        public string? Series_Genre { get; set; }
-        public string? Series_ReleaseYear { get; set; }
-        public string? Series_Poster { get; set; }
-        public string? Series_ExtraInformation { get; set; }
-        public string? Series_IMDB_ID_TAG_ID { get; set; }
-        public string? Series_Ver_Poster { get; set; }
+        public Guid Id { get; set; } = Guid.NewGuid();
+        public String Name { get; set; }
+        public Guid? ParentGroupId { get; set; }
+        public Guid? IconId { get; set; }
+        public Boolean isDeleted { get; set; } = false;
+        public DateTime CreatedDate { get; set; }
+        public DateTime? UpdatedDate { get; set; }
+        public DateTime? DeletedDate { get; set; }
+        public int? ArrangePosition { get; set; }
+    }
+
+    public class tbGroupsAddModel
+    {
+        public String Name { get; set; }
+        public Guid? ParentGroupId { get; set; }
+        public Guid? IconId { get; set; }
     }
 }

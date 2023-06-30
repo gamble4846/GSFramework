@@ -6,6 +6,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -50,6 +51,11 @@ namespace GoogleSheetsCrudLibrary
 
         public static List<T> ConvertToSheetsDataObject<T>(List<object> TitleData, List<List<object>> BodyData) where T : class, new()
         {
+            if(BodyData == null)
+            {
+                return new List<T>();
+            }
+
             var FullSheetsData = new List<List<SheetEmptyModel>>();
             for (var BodyIndex = 0; BodyIndex < BodyData.Count; BodyIndex++)
             {
@@ -78,8 +84,20 @@ namespace GoogleSheetsCrudLibrary
                 {
                     var RowData = RowSheetData[RowIndex];
                     try
-                    {
-                        accessor[t, RowData.Title] = RowData.Data;
+                    { 
+                        var obj = new T();
+                        Type _type = obj.GetType();
+                        PropertyInfo prop = _type.GetProperty(RowData.Title);
+                        switch (prop.PropertyType.ToString().ToUpper())
+                        {
+                            case "GUID":
+                                    break;
+                            case "DATETIME":
+                                break;
+                            default:
+                                accessor[t, RowData.Title] = RowData.Data.ToString();
+                                break;
+                        }
                     }
                     catch (Exception)
                     {

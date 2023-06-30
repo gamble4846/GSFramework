@@ -1,7 +1,7 @@
 ﻿using GoogleSheetsCrudLibrary;
 using ToRunProject;
 
-var SheetId = "1Pzm8_IR28MiGlQwTfKFvLj_gq6fwRH2o57t8GXm1wT4";
+var SheetId = "1e3XFN67BJBSsJjxuCnrMYUafCIqy2m1iQT2K0CfT4OM";
 var ClientSecretsJSON = @"
     {
       ""type"": ""service_account"",
@@ -20,22 +20,22 @@ var ClientSecretsJSON = @"
 
 var _GoogleSheetsCrud = new GoogleSheetsCrud(SheetId, "TEST", ClientSecretsJSON);
 
-//_GoogleSheetsCrud.GetList<TitlesModel>();
-var model = new TitlesModel()
-{
-    Series_Id = "Series_Id_Update",
-    Series_MainName = "Series_MainName_Update",
-    Series_AltNames = "Series_AltNames_Update",
-    Series_Genre = "Series_Genre_Update",
-    Series_ReleaseYear = "Series_ReleaseYear_Update",
-    Series_Poster = "Series_Poster_Update",
-    Series_ExtraInformation = "Series_ExtraInformation_Update",
-    Series_IMDB_ID_TAG_ID = "Series_IMDB_ID_TAG_ID_Update",
-    Series_Ver_Poster = "Series_Ver_Poster_Update",
-};
-//_GoogleSheetsCrud.Add(model);
+_GoogleSheetsCrud.GetList<tbGroupsModel>();
+//var model = new TitlesModel()
+//{
+//    Series_Id = "Series_Id_Update",
+//    Series_MainName = "Series_MainName_Update",
+//    Series_AltNames = "Series_AltNames_Update",
+//    Series_Genre = "Series_Genre_Update",
+//    Series_ReleaseYear = "Series_ReleaseYear_Update",
+//    Series_Poster = "Series_Poster_Update",
+//    Series_ExtraInformation = "Series_ExtraInformation_Update",
+//    Series_IMDB_ID_TAG_ID = "Series_IMDB_ID_TAG_ID_Update",
+//    Series_Ver_Poster = "Series_Ver_Poster_Update",
+//};
+////_GoogleSheetsCrud.Add(model);
 
-var rowIndex = _GoogleSheetsCrud.GetRowNumbers<TitlesModel>("Series_Id", "219");
-Console.WriteLine(rowIndex.ToString());
+//var rowIndex = _GoogleSheetsCrud.GetRowNumbers<TitlesModel>("Series_Id", "219");
+//Console.WriteLine(rowIndex.ToString());
 //_GoogleSheetsCrud.Update(model, rowIndex);
 //_GoogleSheetsCrud.Delete<TitlesModel>(rowIndex);

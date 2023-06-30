@@ -4,13 +4,24 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Version>1.0.0</Version>
+    <Version>1.0.2</Version>
     <Authors>Rohan Patel</Authors>
     <Company>Gamble4846</Company>
     <PackageTags>GoogleSheetsCrudLibrary</PackageTags>
     <Description>A Library to Make CRUD call in Google sheets</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/gamble4846/EasyCrudLibrary.git</PackageProjectUrl>
+    <PackageIcon>Icon.png</PackageIcon>
+    <RepositoryUrl>https://github.com/gamble4846/EasyCrudLibrary.git</RepositoryUrl>
+    <PackageTags>CRUD, SQL, Google Sheet</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="FastMember" Version="1.5.0" />

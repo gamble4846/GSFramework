@@ -92,7 +92,7 @@
           }
         }
       },
-      "GoogleSheetsCrudLibrary/1.0.0": {
+      "GoogleSheetsCrudLibrary/1.0.2": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -250,7 +250,7 @@
         "packageIcon.png"
       ]
     },
-    "GoogleSheetsCrudLibrary/1.0.0": {
+    "GoogleSheetsCrudLibrary/1.0.2": {
       "type": "project",
       "path": "../GoogleSheetsCrudLibrary/GoogleSheetsCrudLibrary.csproj",
       "msbuildProject": "../GoogleSheetsCrudLibrary/GoogleSheetsCrudLibrary.csproj"
@@ -258,7 +258,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "GoogleSheetsCrudLibrary >= 1.0.0"
+      "GoogleSheetsCrudLibrary >= 1.0.2"
     ]
   },
   "packageFolders": {
